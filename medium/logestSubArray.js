@@ -1,6 +1,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * @description To find the length of the longest subarray of 1's that can be obtained by deleting one element from the array.
  */
 const longestSubarray = (nums) => {
   let countBeroreZero = 0;
